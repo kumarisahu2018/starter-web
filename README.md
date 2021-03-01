@@ -11,7 +11,7 @@ This is a simple website project for showing how to use Git and Github repositor
 
 ## How To Contribute 
 
-This is a simple website project for showing how to use Git and Github repository
+Please fork this repository and then issue Pull request for review
 
 ## Deployment
 
