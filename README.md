@@ -17,6 +17,10 @@ This is a simple website project for showing how to use Git and Github repositor
 
 This is a simple website project for showing how to use Git and Github repository
 
+## Copyrights
+
+2021 Git.Training 
+
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
