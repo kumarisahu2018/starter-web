@@ -7,9 +7,15 @@ This is a simple website project for showing how to use Git and Github repositor
 
 ## Purpose
 
+This is a simple website project for showing how to use Git and Github repository
+
 ## How To Contribute 
 
+This is a simple website project for showing how to use Git and Github repository
+
 ## Deployment
+
+This is a simple website project for showing how to use Git and Github repository
 
 # Starter Web Repo
 
