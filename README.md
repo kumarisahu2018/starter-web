@@ -19,7 +19,7 @@ This is a simple website project for showing how to use Git and Github repositor
 
 ## Copyrights
 
-2021 Git.Training 
+2021 Git.Training.  All rights reserved 
 
 # Starter Web Repo
 
